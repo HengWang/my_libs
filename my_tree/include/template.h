@@ -11,3 +11,8 @@
  * @Blog  :  http://hengwang.blog.chinaunix.net
  * */
  
+#ifndef __XXXXX_H
+#define __XXXXX_H
+
+
+#endif  //__XXXXX_H
